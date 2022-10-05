@@ -1,0 +1,135 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/Logos/organization_logo/organization_logo.png\" width=\"300\" alt=\"cognitiveclass.ai logo\"  />\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### Add your code below following the instructions given in the course\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<h1>My Jupyter Notebook on IBM Watson Studio</h1>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**Rihab Najem** <br>\n",
+    "I'm currently a Data scientist!"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "*I am interested in data science because I am currently doing my phd researches on it and it helps us a lot finding some useful results from our data*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<h3>The code below will simly round a decimal number to 2 numbers after the comma </h3>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.79"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "round(3.7896, 2)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<a href=\"www.google.com\"> This is an hyperlink to Google website</a>\n",
+    "* This is a bullet list\n",
+    "* This is a bullet list\n",
+    "* This is a bullet list\n",
+    "\n",
+    "1. This is an ordered list\n",
+    "2. This is an ordered list\n",
+    "3. This is an ordered list\n",
+    "4. This is an ordered list\n",
+    "\n",
+    "<table>\n",
+    "    <tr>\n",
+    "        <td>First row First Column</td>\n",
+    "        <td>First row second Column</td>\n",
+    "        <td>First Row third Column</td>\n",
+    "    </tr>\n",
+    "    <tr>\n",
+    "        <td>Second row First Column</td>\n",
+    "        <td>Second row second Column</td>\n",
+    "        <td>Second Row third Column</td>\n",
+    "    </tr>\n",
+    "    <tr>\n",
+    "        <td>Third row First Column</td>\n",
+    "        <td>Third row second Column</td>\n",
+    "        <td>Third Row third Column</td>\n",
+    "    </tr>    \n",
+    "    <tr>\n",
+    "        <td>Fourth row First Column</td>\n",
+    "        <td>Fourth row second Column</td>\n",
+    "        <td>Fourth Row third Column</td>\n",
+    "    </tr>\n",
+    "</table>    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
